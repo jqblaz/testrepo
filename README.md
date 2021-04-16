@@ -1,5 +1,3 @@
 # testrepo
-testing git setup
-A new line added from pc
 
-A new line from RStudio.
+This is a toy repo used for testing new git connections, etc.
